@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDExampleTests", "TDDExampleTests\TDDExampleTests.csproj", "{96025F51-DFD7-47EC-BB3D-11CBE8752708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDExampleLibrary", "TDDExampleLibrary\TDDExampleLibrary.csproj", "{F33B8819-4469-4ADB-BB96-DB6F19D59817}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96025F51-DFD7-47EC-BB3D-11CBE8752708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96025F51-DFD7-47EC-BB3D-11CBE8752708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96025F51-DFD7-47EC-BB3D-11CBE8752708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96025F51-DFD7-47EC-BB3D-11CBE8752708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F33B8819-4469-4ADB-BB96-DB6F19D59817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33B8819-4469-4ADB-BB96-DB6F19D59817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33B8819-4469-4ADB-BB96-DB6F19D59817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33B8819-4469-4ADB-BB96-DB6F19D59817}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
